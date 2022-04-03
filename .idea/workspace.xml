@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f47059d-d361-40fc-8b3e-2a716c886f9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cardgame/BasicStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cardgame/CardCountingStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cardgame/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cardgame/GameEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cardgame/GameEngineTesting.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RUoEnGCwQzBnfvmr28CA5NMrFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.All in crazy-cardgame">
+    <configuration name="All in crazy-cardgame" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="crazy-cardgame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTesting.objectCreation" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="crazy-cardgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cardgame" />
+      <option name="MAIN_CLASS_NAME" value="cardgame.GameEngineTesting" />
+      <option name="METHOD_NAME" value="objectCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTesting.recieveCardsTest" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="crazy-cardgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cardgame" />
+      <option name="MAIN_CLASS_NAME" value="cardgame.GameEngineTesting" />
+      <option name="METHOD_NAME" value="recieveCardsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crazy-cardgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cardgame" />
+      <option name="MAIN_CLASS_NAME" value="cardgame.GameEngineTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameEngineTesting.objectCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crazy-cardgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cardgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cardgame" />
+      <option name="MAIN_CLASS_NAME" value="cardgame.GameEngineTesting" />
+      <option name="METHOD_NAME" value="objectCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.All in crazy-cardgame" />
+        <item itemvalue="Android JUnit.GameEngineTesting.recieveCardsTest" />
+        <item itemvalue="JUnit.GameEngineTesting.objectCreation" />
+        <item itemvalue="Android JUnit.GameEngineTesting.objectCreation" />
+        <item itemvalue="JUnit.GameEngineTesting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f47059d-d361-40fc-8b3e-2a716c886f9b" name="Default Changelist" comment="" />
+      <created>1569730926837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569730926837</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Subject: Player strategy 1 (Basic Strategy) has been created&#10;&#10;The respective functions have been implemented for the basic strategy. This strategy is only functional doesn't truly use analytical skills.">
+      <created>1569819688533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569819688533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Subject: Tournament function has been created&#10;&#10;Manages the total points and various games involved in crazy 8s">
+      <created>1569819778240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569819778240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Subject: startGame function implemented&#10;&#10;The initial set-up has been finished and few game steps have been implemented.">
+      <created>1569819882889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569819882889</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Subject: Start game functionally complete. Game flow ready&#10;&#10;Game flow complete. Player turn objects need to be initialized..">
+      <created>1569820461349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569820461349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Subject: Modularity improved by creating new class called 'Game'&#10;&#10;Changed Structure of GameEngine by including a new class that represents each game">
+      <created>1569822677476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569822677476</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Subject: Player turn objects have been created and returned&#10;&#10;The game class contained object creations and return the respective value.Game reset function has also been created accordingly.">
+      <created>1569824408893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569824408893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Subject: The second player strategy has been created and completed&#10;&#10;The player objects have been created and the second strategy which involves tracking opponent movements and filtering the best possible moves to be done by a player.">
+      <created>1569980200746</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569980200746</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Subject: Testing Included and Score calculator added&#10;&#10;Some testing added and commenting done. Testing for classes has been added.">
+      <created>1569992673652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569992673652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subject: Player strategy 1 (Basic Strategy) has been created&#10;&#10;The respective functions have been implemented for the basic strategy. This strategy is only functional doesn't truly use analytical skills." />
+    <MESSAGE value="Subject: Tournament function has been created&#10;&#10;Manages the total points and various games involved in crazy 8s" />
+    <MESSAGE value="Subject: startGame function implemented&#10;&#10;The initial set-up has been finished and few game steps have been implemented." />
+    <MESSAGE value="Subject: Start game functionally complete. Game flow ready&#10;&#10;Game flow complete. Player turn objects need to be initialized.." />
+    <MESSAGE value="Subject: Modularity improved by creating new class called 'Game'&#10;&#10;Changed Structure of GameEngine by including a new class that reprsents each game" />
+    <MESSAGE value="Subject: Modularity improved by creating new class called 'Game'&#10;&#10;Changed Structure of GameEngine by including a new class that represents each game" />
+    <MESSAGE value="Subject: Player turn objects have been created and returned&#10;&#10;The game class contained object creations and retrn the respective value.Game reset function has also been created accordingly." />
+    <MESSAGE value="Subject: Player turn objects have been created and returned&#10;&#10;The game class contained object creations and return the respective value.Game reset function has also been created accordingly." />
+    <MESSAGE value="Subject: The second player strategy has been created and completed&#10;&#10;The player objects have been created and the second strategy which involves tracking opponent movements and filtering the best possible moves to be done by a player." />
+    <MESSAGE value="Subject: Testing Included and Score calculator added&#10;&#10;Some testing added and commenting done. Testing for classes has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Subject: Testing Included and Score calculator added&#10;&#10;Some testing added and commenting done. Testing for classes has been added." />
+  </component>
+</project>
