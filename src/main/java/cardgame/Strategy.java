@@ -96,7 +96,7 @@ public class Strategy extends PlayerTurn implements PlayerStrategy{
 
         for(Card obj : handcards){
             if(obj.getRank() == 8){
-                Random random = new Random();
+                // Random random = new Random();
                 int max = Card.Suit.values().length - 1;
                 int randomSuit = random.nextInt(max);
                 return Card.Suit.values()[randomSuit];
